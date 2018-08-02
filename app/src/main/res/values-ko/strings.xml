@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">헤드셋 연결 알림</string>
+    <string name="tap_to_open_sound_settings">소리 설정을 열려면 눌러주세요.</string>
+    <string name="headset_plugged_in">헤드셋 연결됨</string>
+    <string name="headphone_plugged_in">헤드폰 연결됨</string>
+    <string name="enable_notification">알림 켜기</string>
+    <string name="disable_notification">알림 끄기</string>
+    <string name="hide_from_launcher">아이콘 숨기기</string>
+    <string name="desc_hide_from_launcher">앱 아이콘을 숨기려면 아래의 체크박스에 표시해주세요. 다음에 폰이 시작되면 아이콘은 사라져있을 것입니다. 아이콘을 다시 보고 싶으시다면 앱을 제거하신 다음 다시 설치해주세요.</string>
+
+</resources>

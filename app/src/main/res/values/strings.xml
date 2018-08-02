@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Headset Indicator</string>
+    <string name="tap_to_open_sound_settings">Tap to open Sound settings.</string>
+    <string name="headset_plugged_in">Headset connected</string>
+    <string name="headphone_plugged_in">Headphones connected</string>
+    <string name="enable_notification">Enable notification</string>
+    <string name="disable_notification">Disable notification</string>
+    <string name="hide_from_launcher">Hide Icon from launcher</string>
+    <string name="desc_hide_from_launcher">You can hide this app\'s icon from launcher. Mark below then will be applied on next boot. To revert this, uninstall and re-install app.</string>
+
+</resources>
