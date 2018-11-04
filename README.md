@@ -1,6 +1,6 @@
 # HeadsetIndicator
 (Old Project at 2013, Compile not guaranteed) 이어폰 연결 여부를 알림 막대에 아이콘으로 표시해주는 간단한 앱. Simple app that puts icon about connection status of headset on status bar.  
-https://play.google.com/store/apps/details?id=kr.LaruYan.SerossugiGun
+https://play.google.com/store/apps/details?id=kr.LaruYan.HeadsetIndicator
 
 ![alt text](https://raw.githubusercontent.com/LaruYan/HeadsetIndicator/readme/doc/Icon_Big.png "Icon")
 
