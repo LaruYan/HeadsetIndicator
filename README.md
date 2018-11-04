@@ -26,11 +26,7 @@ Be sure to ENABLE notification, open app then click "Enable Notification"
 > Initial release
 
 
-## English
-![alt text](https://raw.githubusercontent.com/LaruYan/HeadsetIndicator/readme/doc/en/main_screen.png "메인 화면")
-![alt text](https://raw.githubusercontent.com/LaruYan/HeadsetIndicator/readme/doc/en/headeset.png "헤드셋 연결시")
-![alt text](https://raw.githubusercontent.com/LaruYan/HeadsetIndicator/readme/doc/en/headphone.png "헤드폰 연결시")
-
+## 한국어
 헤드셋 연결알림 앱으로 이어폰이 제대로 꽂혔는지 확인해보세요.  
 헤드셋 연결알림 앱은 헤드폰이 기기에 꽂혔을 때 알림 막대에 꽂힌 상태를 표시해주며 지원되는 경우, 마이크가 연결되었는지도 알려줍니다.  
 
