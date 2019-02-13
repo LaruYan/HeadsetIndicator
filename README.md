@@ -2,12 +2,12 @@
 (Old Project at 2013, Compile not guaranteed) 이어폰 연결 여부를 알림 막대에 아이콘으로 표시해주는 간단한 앱. Simple app that puts icon about connection status of headset on status bar.  
 https://play.google.com/store/apps/details?id=kr.LaruYan.HeadsetIndicator
 
-![alt text](https://raw.githubusercontent.com/LaruYan/HeadsetIndicator/readme/doc/Icon_Big.png "Icon")
+![alt text](https://raw.githubusercontent.com/LaruYan/HeadsetIndicator/master/doc/Icon_Big.png "Icon")
 
 ## English
-![alt text](https://raw.githubusercontent.com/LaruYan/HeadsetIndicator/readme/doc/en/main_screen.png "Main screen")
-![alt text](https://raw.githubusercontent.com/LaruYan/HeadsetIndicator/readme/doc/en/headeset.png "while headset is connected")
-![alt text](https://raw.githubusercontent.com/LaruYan/HeadsetIndicator/readme/doc/en/headphone.png "while headphone is connected")
+![alt text](https://raw.githubusercontent.com/LaruYan/HeadsetIndicator/master/doc/en/main_screen.png "Main screen")
+![alt text](https://raw.githubusercontent.com/LaruYan/HeadsetIndicator/master/doc/en/headeset.png "while headset is connected")
+![alt text](https://raw.githubusercontent.com/LaruYan/HeadsetIndicator/master/doc/en/headphone.png "while headphone is connected")
 
 Make sure headset or headphones are plugged in correctly with simple Headset Indicator.  
 Headset Indicator makes status bar notification when a headset or headphones are connected.  
